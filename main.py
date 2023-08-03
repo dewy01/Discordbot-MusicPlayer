@@ -116,4 +116,4 @@ async def leave(ctx):
         await ctx.send("I am not connected to any voice channel.")
 
 # Uruchomienie bota
-bot.run('MTEzNTcyMDgwNzU1ODAyNTMwOA.Gn-R9O.Q5kwkqDDu1CCGopiRl0ErjFEyhkzHsda_Hjp_A')
+bot.run('TOKEN')
