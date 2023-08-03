@@ -1,3 +1,0 @@
-https://discord.com/api/oauth2/authorize?client_id=1135720807558025308&permissions=41770771020608&scope=bot
-
-MTEzNTcyMDgwNzU1ODAyNTMwOA.Gn-R9O.Q5kwkqDDu1CCGopiRl0ErjFEyhkzHsda_Hjp_A
